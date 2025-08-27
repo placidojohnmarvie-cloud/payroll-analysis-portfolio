@@ -14,7 +14,7 @@ It demonstrates skills in:
 - **payroll.xlsx** → The main payroll sheet.
 
 ## Preview
-![Payroll Screenshot](screenshot.png)
+![Payroll Screenshot](SAMPLE PAYROLLL EXCEL.png)
 
 ## About Me
 I am an aspiring data analyst with entry-level skills in Excel, SQL, and Python. This repository serves as part of my growing portfolio.
